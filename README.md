@@ -6,11 +6,11 @@
 
 3) After setting up an account with OpenAi you will need to pay for at least $1 in credits so that your account is given the permission to use the GPT-4 model for running the app.
 
-4) Create an account with ElevenLabs and an Ai voice on the website. Open up character.py and replace the VOICE variable with the name of your Ai voice.
+4) Create an account with ElevenLabs and an Ai voice on the website. Open up main.py and replace the VOICE variable with the name of your Ai voice.
 
 ## Using the Program
 
-1) Run `character.py'
+1) Run `main.py'
 
 2) Once it's running enter a personality for the ai and then click on the start button and Azure Speech-to-text will listen to your microphone and transcribe it into text.
 
