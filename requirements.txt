@@ -6,6 +6,5 @@ mutagen==1.46.0
 openai==1.7.2
 pydantic==1.10.13
 pygame-ce==2.4.0
-rich==13.7.0
 soundfile==0.12.1
 tiktoken==0.5.1
